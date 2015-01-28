@@ -9,3 +9,5 @@ za³o¿enia:
 
 
 Chat zosta³ napisany w Javie przy u¿yciu Springa. Komunikacja odbywa siê prez websockety. Po stronie klienta obs³uga gniazd odbywa siê poprzez wykorzystanie sockjs-0.3.4. Dane s¹ przesy³ane w formacie JSON.
+
+Projekt nale¿y uruchomiæ poprzez gradle.
