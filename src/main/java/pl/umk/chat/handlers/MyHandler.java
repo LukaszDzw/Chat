@@ -3,10 +3,7 @@ package pl.umk.chat.handlers;
 /**
  * Created by Lukasz on 2015-01-28.
  */
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.web.socket.CloseStatus;
-import org.springframework.web.socket.WebSocketHandler;
 import org.springframework.web.socket.WebSocketSession;
 import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.handler.TextWebSocketHandler;
@@ -81,13 +78,7 @@ public class MyHandler extends TextWebSocketHandler {
 
     @Override
     public void afterConnectionClosed(WebSocketSession session,
-                                      CloseStatus status) {
-        //Handle closing connection here
-    }
-
-    @Override
-    public void handleTransportError(WebSocketSession session, Throwable exception)
-            throws IOException{
+                                      CloseStatus status) throws IOException{
         usersMap.values().remove(session);
         Iterator<WebSocketSession> iterator = usersMap.values().iterator();
 
@@ -97,5 +88,4 @@ public class MyHandler extends TextWebSocketHandler {
             iterator.next().sendMessage(new TextMessage(usersJson));
         }
     }
-
 }
