@@ -52,14 +52,6 @@
     <orderEntry type="library" exported="" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.7.7" level="project" />
     <orderEntry type="library" exported="" name="Gradle: ch.qos.logback:logback-core:1.1.2" level="project" />
-    <orderEntry type="module-library" exported="">
-      <library name="Gradle: javax.json-1.0.4">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/javax.json-1.0.4.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" exported="" name="Gradle: javax.json:javax.json-api:1.0-b06" level="project" />
   </component>
 </module>

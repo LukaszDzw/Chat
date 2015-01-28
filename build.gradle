@@ -30,7 +30,7 @@ repositories {
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-websocket")
     compile("org.springframework:spring-messaging")
-    compile files('lib/javax.json-1.0.4.jar')
+    compile("org.glassfish:javax.json:1.0.4")
     testCompile("junit:junit")
 }
 
