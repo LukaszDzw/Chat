@@ -4,7 +4,7 @@
     <title>Chat</title>
     <script src="sockjs-0.3.4.js"></script>
     <script type="text/javascript">
-        var websocket = new SockJS("http://localhost:8080/myHandler");
+        var websocket = new SockJS("http://localhost:8080/chat");
 
         websocket.onmessage = function processMessage(message){
             var userBox = document.getElementById('userBox');

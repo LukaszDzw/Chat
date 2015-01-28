@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Iterator;
 
-public class MyHandler extends TextWebSocketHandler {
+public class ServerHandler extends TextWebSocketHandler {
 
     static HashMap<String, WebSocketSession> usersMap=new HashMap<>();
 
