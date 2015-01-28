@@ -69,12 +69,13 @@
         </entry>
       </file>
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/umk/chat/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="323">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="357">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#361#362#0" expanded="false" />
+                <element signature="e#423#424#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -85,7 +86,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
               <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding />
+              <folding>
+                <element signature="e#204#205#0" expanded="false" />
+                <element signature="e#231#232#0" expanded="false" />
+                <element signature="e#262#263#0" expanded="false" />
+                <element signature="e#289#290#0" expanded="false" />
+                <element signature="e#329#330#0" expanded="false" />
+                <element signature="e#361#362#0" expanded="false" />
+                <element signature="e#403#404#0" expanded="false" />
+                <element signature="e#433#434#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -645,6 +655,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -733,32 +747,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="handlers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chat3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chat_github" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1045,12 +1033,12 @@
       <option name="number" value="Default" />
       <updated>1422460745096</updated>
       <workItem from="1422460747935" duration="6535000" />
-      <workItem from="1422476240159" duration="1587000" />
+      <workItem from="1422476240159" duration="2193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10855000" />
+    <option name="totallyTimeSpent" value="11461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="0" />
@@ -1115,12 +1103,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/umk/chat/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="323">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1129,7 +1118,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#204#205#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1200,12 +1198,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/umk/chat/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1214,7 +1213,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#204#205#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1282,12 +1290,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/umk/chat/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1296,7 +1305,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="629">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#204#205#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,16 +1375,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#204#205#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#403#404#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/umk/chat/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="357">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
           </folding>
         </state>
       </provider>
